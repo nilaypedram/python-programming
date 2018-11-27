@@ -1,6 +1,11 @@
-x=int(input("Enter temperature:"))
-y=input("is it in 'celcius' or 'temperatur'")
-if y is 'celsius':
+#title-temperature conversion
+#Nilay Pedram
+#M-45
+
+
+x=int(input("Enter temperature:"))                       #input from user
+y=input("is it in 'celcius' or 'farenhite'")
+if y is 'celsius':                                       #if-else statement
  f=9*x/5 + 32
  print(f)
 else:
