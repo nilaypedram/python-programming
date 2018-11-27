@@ -1,3 +1,9 @@
+#title-Armstrong No.
+#NILAY PEDRAM
+#ROLL NO-45,DIV-M 
+
+
+
 def amstrong_number(x):
    s=0
    z=x
